@@ -11,7 +11,7 @@ java,mysql,postgres,py,pycharm,pytorch,fastapi
 🛠️ **Public Repositories:** 51  
 👥 **Followers:** 4  
 🔗 **Following:** 3  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RyuuShiro30&show_icons=true&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=USERNAME&theme=dark)
 
 ## Recent Activity
 
