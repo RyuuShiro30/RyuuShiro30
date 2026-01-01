@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi there! 👋
 
-<!--
-**RyuuShiro30/RyuuShiro30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Muhammad Annora Ega Prasetyo Student At State Polytechnic of Malang. My passionate in Ai Engineer and i really like to explore about artificial intelligence
 
-Here are some ideas to get you started:
+## Skills & Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+java,mysql,postgres,py,pycharm,pytorch,fastapi
+
+## GitHub Stats
+
+🛠️ **Public Repositories:** 51  
+👥 **Followers:** 4  
+🔗 **Following:** 3  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RyuuShiro30&show_icons=true&theme=radical)
+
+## Recent Activity
+
+- Pushed to [Dicoding-Machine_Learning](https://github.com/RyuuShiro30/Dicoding-Machine_Learning) on Jan 1, 2026
+- Pushed to [Dicoding-Python](https://github.com/RyuuShiro30/Dicoding-Python) on Dec 30, 2025
+- Created branch 'main' in [Dicoding-Python](https://github.com/RyuuShiro30/Dicoding-Python) on Dec 30, 2025
+- Pushed to [Project-AI-Website](https://github.com/RyuuShiro30/Project-AI-Website) on Dec 24, 2025
