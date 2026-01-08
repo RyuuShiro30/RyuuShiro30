@@ -1,4 +1,5 @@
 # 💫About Me :
+HI, I'm Muhammad Annora Ega Prasetyo...
 Business Information System Student At State Polytechnic of Malang. My passionate in Ai Engineer and i really like to explore about artificial intelligence
 
 # 💻Tech Stack
