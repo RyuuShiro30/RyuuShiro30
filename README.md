@@ -1,106 +1,96 @@
 <div align="center">
 
-<img src="./assets/coding_hoodie.gif" width="220" alt="typing animation" />
+<img src="REPLACE_WITH_YOUR_UPLOADED_GIF_URL" width="100%" alt="typing banner" />
 
-<h1>Hi, I'm Muhammad Annora Ega Prasetyo 👋</h1>
+<br />
 
-<a href="https://github.com/RyuuShiro30">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=1B6FC9&center=true&vCenter=true&width=560&lines=Business+Information+Systems+Student;Backend+%26+AI+Engineering+Enthusiast;Building+with+Python+%2C+Laravel+%2C+FastAPI;Turning+Data+into+Intelligent+Systems" alt="typing banner" />
+# Muhammad Annora Ega Prasetyo
+
+**Backend Developer &nbsp;•&nbsp; Machine Learning &amp; AI Enthusiast**
+
+<img src="https://img.shields.io/badge/Malang%2C%20Indonesia-0B1120?style=flat-square&logo=googlemaps&logoColor=4ADE80" />
+<img src="https://img.shields.io/badge/State%20Polytechnic%20of%20Malang-0B1120?style=flat-square&logo=readthedocs&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/he%2Fhim-0B1120?style=flat-square" />
+
+</div>
+
+<br />
+
+```
+$ whoami
+```
+
+Business Information Systems student at the State Polytechnic of Malang, building things on the
+backend and teaching machines to make sense of data. Most of my time goes into designing APIs
+that hold up under real traffic and models that actually generalize — the boring, unglamorous
+work that makes the flashy parts of AI possible. Always mid-way through learning something new.
+
+<br />
+
+```
+$ stack --core
+```
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+```
+$ stack --machine-learning
+```
+
+<p>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+</p>
+
+```
+$ stack --tech-i-ever-use
+```
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+</p>
+
+<br />
+
+```
+$ github stats --fetch
+```
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=RyuuShiro30&show_icons=true&hide_border=true&bg_color=0B1120&title_color=4ADE80&icon_color=38BDF8&text_color=C9D1D9&count_private=true" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyuuShiro30&layout=compact&hide_border=true&bg_color=0B1120&title_color=4ADE80&text_color=C9D1D9&langs_count=8" width="41%" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RyuuShiro30&hide_border=true&background=0B1120&stroke=0B1120&ring=38BDF8&fire=4ADE80&currStreakLabel=4ADE80&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=6B7280" width="60%" />
+
+</div>
+
+<br />
+
+```
+$ contact --show
+```
+
+<p align="center">
+<a href="mailto:annoraegaprasetyo@gmail.com">
+<img src="https://img.shields.io/badge/annoraegaprasetyo%40gmail.com-0B1120?style=for-the-badge&logo=gmail&logoColor=EA4335" />
 </a>
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=RyuuShiro30&color=1B6FC9&style=flat-square&label=Profile+Views)
-![Followers](https://img.shields.io/github/followers/RyuuShiro30?style=flat-square&color=1B6FC9&labelColor=0A2540)
-
-</div>
-
-<br/>
-
-## 🧠 About Me
-
-I'm a **Business Information Systems** student at the **State Polytechnic of Malang**, focused on **backend engineering** and steadily moving deeper into **Artificial Intelligence & Machine Learning**.
-
-- 🔭 I build backend services and full applications — REST APIs, mobile apps, and web platforms
-- 🤖 I'm exploring how ML/AI models can be wrapped into real, usable backend systems
-- 🌱 Currently sharpening my skills in FastAPI, model deployment, and scalable data pipelines
-- 💬 Ask me about Python, Laravel, FastAPI, or Flutter
-- ⚡ Fun fact: I like my code the way I like my systems — clean, structured, and predictable
-
-<br/>
-
-## 🛠️ Core Stack
+</p>
 
 <div align="center">
-
-**Languages**
-<br/>
-![Java](https://img.shields.io/badge/Java-0A2540?style=for-the-badge&logo=openjdk&logoColor=79B8FF)
-![Python](https://img.shields.io/badge/Python-0A2540?style=for-the-badge&logo=python&logoColor=79B8FF)
-
-**Backend**
-<br/>
-![Django](https://img.shields.io/badge/Django-0A2540?style=for-the-badge&logo=django&logoColor=79B8FF)
-![FastAPI](https://img.shields.io/badge/FastAPI-0A2540?style=for-the-badge&logo=fastapi&logoColor=79B8FF)
-
-**Databases**
-<br/>
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0A2540?style=for-the-badge&logo=postgresql&logoColor=79B8FF)
-![MySQL](https://img.shields.io/badge/MySQL-0A2540?style=for-the-badge&logo=mysql&logoColor=79B8FF)
-
-**AI / Machine Learning**
-<br/>
-![NumPy](https://img.shields.io/badge/NumPy-0A2540?style=for-the-badge&logo=numpy&logoColor=79B8FF)
-![Pandas](https://img.shields.io/badge/Pandas-0A2540?style=for-the-badge&logo=pandas&logoColor=79B8FF)
-![PyTorch](https://img.shields.io/badge/PyTorch-0A2540?style=for-the-badge&logo=pytorch&logoColor=79B8FF)
-![scikit--learn](https://img.shields.io/badge/scikit--learn-0A2540?style=for-the-badge&logo=scikitlearn&logoColor=79B8FF)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-0A2540?style=for-the-badge&logo=tensorflow&logoColor=79B8FF)
-
-</div>
-
-<br/>
-
-## 🧰 Tech I Ever Use
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-1B6FC9?style=for-the-badge&logo=python&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-1B6FC9?style=for-the-badge&logo=laravel&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-1B6FC9?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-1B6FC9?style=for-the-badge&logo=flutter&logoColor=white)
-![React.js](https://img.shields.io/badge/React.js-1B6FC9?style=for-the-badge&logo=react&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-1B6FC9?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-</div>
-
-<br/>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=RyuuShiro30&show_icons=true&hide_border=true&bg_color=00000000&title_color=1B6FC9&icon_color=1B6FC9&text_color=3A4A63" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyuuShiro30&layout=compact&hide_border=true&bg_color=00000000&title_color=1B6FC9&text_color=3A4A63" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RyuuShiro30&hide_border=true&background=00000000&stroke=1B6FC9&ring=1B6FC9&fire=1B6FC9&currStreakLabel=1B6FC9&sideLabels=3A4A63&currStreakNum=0A2540&sideNums=0A2540&dates=7A8CA8" />
-
-</div>
-
-<br/>
-
-## 🤝 Connect
-
-<div align="center">
-
-[![Gmail](https://img.shields.io/badge/Email-1B6FC9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:annoraegaprasetyo@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-0A2540?style=for-the-badge&logo=github&logoColor=79B8FF)](https://github.com/RyuuShiro30)
-
-</div>
-
-<br/>
-
-<div align="center">
-<sub>Backend today, AI tomorrow. 🚀</sub>
+<sub>currently training something new, one commit at a time.</sub>
 </div>
